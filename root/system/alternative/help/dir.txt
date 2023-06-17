@@ -1,0 +1,13 @@
+// Funzioni relative al Percorso Virtuale dell'Alternative OS.
+//
+// ARGOMENTI (dir <arg1> / dir <arg1> <arg2>) :
+// 
+//  ARGOMENTO 1:
+//
+//   "see"     per visualizzare il percorso corrente;
+//  "change"   per cambiare il percorso - necessita di un
+//             secondo argomento.
+//
+//  ARGOMENTO 2:
+//
+//   <path> per impostare il percorso.

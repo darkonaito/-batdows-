@@ -1,0 +1,3 @@
+ask '1: ' V1
+ask '2: ' V2
+write '!V1!' !V2!

@@ -1,0 +1,10 @@
+set "winPlacePos="
+set "cols=0f"
+color 0f
+set "lvln=Sas"
+set "deaPlacePos="
+set "nexLvlPos="
+set "nexLvlN="
+set "loc_y=15"
+set "loc_x=3"
+set "ptr_l=603"

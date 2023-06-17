@@ -1,0 +1,2 @@
+// Stampa a schermo la lista degli item
+// presenti nella directory corrente.

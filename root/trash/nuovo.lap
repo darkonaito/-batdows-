@@ -1,0 +1,3 @@
+ask 'Come stai? ' status
+write 'Stai !status!? Ne sono felice :D^!'
+echo YEE!

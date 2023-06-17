@@ -1,0 +1,4 @@
+ask 'fai chifo?' sas
+if ("!sas!"=="si") {write 'almeno sei onesto'}
+if ("!sas!"=="no") {write 'sono stati rimossi 100 Robux dal tuo account'}
+stop '/n'

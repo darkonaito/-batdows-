@@ -1,0 +1,6 @@
+; ask string.Stuff to say
+; ask num.Times
+; write '!string!' !num!
+var n A Ciao
+var n B 3
+write '!A!' !B!

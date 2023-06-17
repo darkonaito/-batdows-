@@ -1,0 +1,6 @@
+write '!errorlevel!' in|a
+var a b !a!+3 _
+write '!b!'
+ask '!b!' c
+write '!c!'
+read !c! norm _

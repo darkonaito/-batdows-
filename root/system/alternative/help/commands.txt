@@ -1,0 +1,2 @@
+// Fa visualizzare la lista dei comandi disponibili
+// nel percorso "root\system\alternative\sys\commands\".

@@ -1,0 +1,13 @@
+// Funzioni relative ai programmi.
+//
+// ARGOMENTI (prog <arg1> / prog <arg1> <arg2>) :
+// 
+//  ARGOMENTO 1:
+//
+//   "see"     per visualizzare la lista di programmi;
+//   "start"   per avviare un programma - necessita di un
+//             secondo argomento.
+//
+//  ARGOMENTO 2:
+//
+//   <nome programma> per avviare quel programma.

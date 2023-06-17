@@ -1,0 +1,7 @@
+// Richiama un file Batch.
+//
+// ARGOMENTI (use <arg1>) :
+// 
+//  ARGOMENTO 1:
+//
+//   <batch file name> per richiamare tale file.

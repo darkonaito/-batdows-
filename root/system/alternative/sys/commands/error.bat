@@ -1,0 +1,1 @@
+if "!show_error!"=="true" echo Comando non trovato in "!Prompt.Comm!".

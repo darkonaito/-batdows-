@@ -1,0 +1,9 @@
+write 'a' 2 
+color 0c
+var a v1 1+1
+var n v2 'LOL'
+write '!v1! !v2!'
+;and
+ask string'FRASE: '
+ask num'NUMERO: '
+write '!ask string!' !num!

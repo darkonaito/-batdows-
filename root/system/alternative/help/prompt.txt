@@ -1,0 +1,8 @@
+// Serve per cambiare la directory dove il sistema
+// cerca i file relativi ai comandi.
+//
+// ARGOMENTI (prompt <arg>) :
+// 
+//  "norm"  per impostare il percorso STANDARD;
+//  "alt"   per impostare il percorso ALTERNATIVE;
+//  <path>  per impostare il percorso ad uno personalizzato.

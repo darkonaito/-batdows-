@@ -1,0 +1,2 @@
+// Ri-esegue l'ini.bat (root\system\primary\ini.bat),
+// re-inizializzando|resettando le variabili.

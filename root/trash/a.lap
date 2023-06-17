@@ -1,0 +1,6 @@
+write 'a' 2
+;ope 1+1+1
+write '!LAST_RES!' !LAST_RES!
+ask 'Cosa devo ripetere? : ' v1
+ask 'Quante volte devo ripetere? :' v2
+write '!v1!' !v2!

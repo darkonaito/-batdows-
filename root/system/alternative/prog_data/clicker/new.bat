@@ -1,0 +1,1 @@
+set cash=0

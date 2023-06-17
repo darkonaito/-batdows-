@@ -1,0 +1,8 @@
+Current Version: 0.1
+
+Developer: Darko
+
+Programmed in Batch Scripts
+
+Owner: AndreWWWW
+

@@ -1,0 +1,12 @@
+root\gui-s                     
+root\trash                     
+root\system\primary\check.bat  
+root\system\primary\deskt.bat  
+root\system\primary\ini.bat    
+root\system\primary\login.bat  
+root\system\primary\reboot.bat 
+root\system\primary\list.txt   
+root\system\prompt             
+root\system\alternative        
+root\accounts\standard         
+root\temp                      

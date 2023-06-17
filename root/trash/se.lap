@@ -1,0 +1,5 @@
+ask 'Condizione: ' cond
+ask 'Conseguenza: ' cons
+write '!cond!,!cons!'
+if (!cond!) {!cons!} write 'a'
+stop '/n'
